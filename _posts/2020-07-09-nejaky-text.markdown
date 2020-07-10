@@ -2,7 +2,7 @@
 layout: post
 title:  "Nějaký text"
 date:   2020-07-09 19:14:33 +0200
-categories: jekyll update
+categories:
 ---
 Nějaký testovací text.
 
