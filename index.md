@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# Svojše
-
 Svojše je malá vesnička v centrální části Šumavy. Leží v nadmořské výšce 795 m.n.m na hřbetu na levém břehu Rýžovnického potoka
 
 Vesnicí prochází silnice silnice II/168 z Rejštejna na Horskou Kvildu.
