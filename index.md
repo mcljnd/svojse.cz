@@ -16,3 +16,21 @@ Svojše je malá vesnička v centrální části Šumavy. Leží v nadmořské v
 <p>První zmínky o vesnici pocházejí z roku 1584. Až do roku 1850 tvořily Svojše (Zwoischen) jeden správní celek s osadami Kozí Hřbety a Horská Kvilda.</p>
 
 <p>Většina obyvatel byla německého původu a po druhé světové válce byla odsunuta.</p>
+
+<div>
+{% for post in site.posts %}
+  <h3>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </h3>
+    {{ post.excerpt }}
+  
+{% endfor %}
+</div>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
