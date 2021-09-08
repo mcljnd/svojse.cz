@@ -18,19 +18,19 @@ Svojše je malá vesnička v centrální části Šumavy. Leží v nadmořské v
 <p>Většina obyvatel byla německého původu a po druhé světové válce byla odsunuta.</p>
 
 <div>
-{% for post in site.posts %}
-  <h3>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </h3>
-    {{ post.excerpt }}
+# {% for post in site.posts %}
+#  <h3>
+#    <a href="{{ post.url }}">{{ post.title }}</a>
+#  </h3>
+#    {{ post.excerpt }}
   
-{% endfor %}
-</div>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+# {% endfor %}
+# </div>
+#< ul>
+#  {% for post in site.posts %}
+#    <li>
+#      <a href="{{ post.url }}">{{ post.title }}</a>
+#      {{ post.excerpt }}
+#    </li>
+#  {% endfor %}
+# </ul>
