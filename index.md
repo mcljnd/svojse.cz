@@ -18,3 +18,10 @@ Svojše je malá vesnička v centrální části Šumavy. Leží v nadmořské v
 <p>Většina obyvatel byla německého původu a po druhé světové válce byla odsunuta.</p>
 
 <div>
+<hr>
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
+<hr>
