@@ -39,7 +39,7 @@ http://www.tipue.com/search
 {
      color: #333;
      max-width: 210px;
-	padding: 17px;
+	padding: 2px;
 	border: 1px solid #e3e3e3;
 	border-radius: 0;
 	-moz-appearance: none;
@@ -47,6 +47,7 @@ http://www.tipue.com/search
      box-shadow: none; 
 	outline: 0;
 	margin: 0;
+     float: right;
 }
 .tipue_search_icon
 {
@@ -60,7 +61,7 @@ http://www.tipue.com/search
 }
 .tipue_search_right
 {
-     float: left;
+     float: right;
 }
 
 
