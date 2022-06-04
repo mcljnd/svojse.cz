@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Panda"
+date:   2022-06-04 18:14:33 +0200
+categories:
+---
+The giant panda, also known as the panda bear, is a bear species endemic to China. It is characterised by its bold black-and-white coat and rotund body. The name "giant panda" is sometimes used to distinguish it from the red panda, a neighboring musteloid.
