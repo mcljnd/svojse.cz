@@ -22,6 +22,6 @@ Svojše je malá vesnička v centrální části Šumavy. Leží v nadmořské v
 <div class="blog-index">  
   {% assign post = site.posts.first %}
   {% assign content = post.content %}
-  {% include post_detail.html %}
+  {% include post.html %}
 </div>
 <hr>
