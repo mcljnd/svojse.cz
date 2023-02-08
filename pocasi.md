@@ -3,7 +3,7 @@ layout: page
 title: Počasí
 permalink: /pocasi/
 ---
-<iframe src="https://svojse.tmep.cz/">
+<iframe width="450" height="260" src="https://svojse.tmep.cz/">
 </iframe>
 ### Teplota
 <iframe width="450" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/564783/widgets/134182"></iframe>
